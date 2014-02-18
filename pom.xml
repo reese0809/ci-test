@@ -26,7 +26,6 @@
       <timezone>America/New York/ EST</timezone>
     </contributor>
   </contributors>
-  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
